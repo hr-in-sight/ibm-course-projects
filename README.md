@@ -17,3 +17,4 @@ As part of the final assignment, I extracted and visualized financial data for *
 - `Final_Assignment.ipynb`: Main notebook with all 7 assignment questions solved
 - `/Images`: Screenshots of the code and outputs for each assignment step (for submission)
 - `README.md`: This file
+- `LICENSE`
